@@ -11,6 +11,11 @@ This motor will start spinning when the temperature or humidity is higher than t
 
 ![gif_demo](https://github.com/at-cs-ubbcluj-ro/solo-project-dogoPaprika/blob/master/media/ezgif.com-gif-maker.gif)
 
+For starting the program I type ```python3 prj.py temp 33```
+This means the program will compare the temperature with 33 degrees. As seen in the demo, when temperature is below 33, the output will be green and the motor will stop spinning if it was turned on previously. When is above 33,
+the output will be red and the motor starts spinning. When there is no output from the sensor (connection is unstable) the output is blue and the motor stops. I heated the sensor with a hair dryer so the temperature will rise and humidity will decrease.
+You can also call the program with ```hum``` argument instead of ```temp```.
+
 ## Schematics plan
 
 ![fritzing_schema](https://github.com/at-cs-ubbcluj-ro/solo-project-dogoPaprika/blob/master/media/fritzing_schema.png)
@@ -19,6 +24,7 @@ This motor will start spinning when the temperature or humidity is higher than t
 
 * Raspberry Pi Zero W
 * Jumping wires
+* Breadboard
 * DC motor
 * Temperature and humidity senzor (DHT11)
 * 10k ohm resistance
