@@ -1,7 +1,11 @@
-# Android Things Solo project
-
 # Fan controlled by temperature
 
-I will have a fan attached to an electrical motor. This motor will start spinning
-when the temperature senzor will sense a temperature higher than a specified value.
+## Overview
+
+The project consists of a fan attached to a DC motor. 
+The temperature and humidity senzor will send data to the program.
+The program can be called with 2 command line arguments representing the option (temperature or humidity) and the limit.
+This motor will start spinning when the temperature or humidity is higher than the limit imposed by the user.
+
+
 
