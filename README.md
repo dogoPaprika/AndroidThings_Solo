@@ -9,5 +9,5 @@ This motor will start spinning when the temperature or humidity is higher than t
 
 ## Schematics plan
 
-![fritzing_schema}(https://github.com/at-cs-ubbcluj-ro/solo-project-dogoPaprika/blob/master/media/fritzing_schema.png)
+![fritzing_schema](https://github.com/at-cs-ubbcluj-ro/solo-project-dogoPaprika/blob/master/media/fritzing_schema.png)
 
