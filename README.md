@@ -22,16 +22,16 @@ You can also call the program with ```hum``` argument instead of ```temp```.
 
 ## Pre-requisites
 
-* Raspberry Pi Zero W [](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
+* [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
 * Jumping wires
 * Breadboard 
-* DC motor [](https://components101.com/motors/toy-dc-motor)
-* Temperature and humidity senzor (DHT11) [](https://components101.com/sensors/dht11-temperature-sensor)
-* 10k ohm resistance [](https://www.digchip.com/datasheets/parts/datasheet/1838/RSF100JB-10K.php)
-* Motor Driver (L239) [](https://components101.com/ics/l293d-pinout-features-datasheet)
+* [DC motor](https://components101.com/motors/toy-dc-motor)
+* [Temperature and humidity senzor (DHT11)](https://components101.com/sensors/dht11-temperature-sensor)
+* [10k ohm resistance](https://www.digchip.com/datasheets/parts/datasheet/1838/RSF100JB-10K.php)
+* [Motor Driver (L239)](https://components101.com/ics/l293d-pinout-features-datasheet)
 * battery 9V
 
-* Raspbian OS [](https://www.raspberrypi.org/software/)
+* [Raspbian OS](https://www.raspberrypi.org/software/)
 
 ## Setup and Build Plan
 
