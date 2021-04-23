@@ -22,22 +22,24 @@ You can also call the program with ```hum``` argument instead of ```temp```.
 
 ## Pre-requisites
 
-* Raspberry Pi Zero W
+* Raspberry Pi Zero W [](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
 * Jumping wires
-* Breadboard
-* DC motor
-* Temperature and humidity senzor (DHT11)
-* 10k ohm resistance
-* Motor Driver (L239)
-* battery 
+* Breadboard 
+* DC motor [](https://components101.com/motors/toy-dc-motor)
+* Temperature and humidity senzor (DHT11) [](https://components101.com/sensors/dht11-temperature-sensor)
+* 10k ohm resistance [](https://www.digchip.com/datasheets/parts/datasheet/1838/RSF100JB-10K.php)
+* Motor Driver (L239) [](https://components101.com/ics/l293d-pinout-features-datasheet)
+* battery 9V
+
+* Raspbian OS [](https://www.raspberrypi.org/software/)
 
 ## Setup and Build Plan
 
 - [x] To setup the raspberry Follow this video: https://www.youtube.com/watch?v=Hdm26W9dHK0&t=811s
 - [x] Configure the elements on breadboard like in the schematics image
-- [x] Test the program
-      Write the following command on the console
+- [x] Test the program, write the following command on the console
       ```sudo pip3 install Adafruit_DHT```
       
-      Create a new py file and add the code from the prj.py file
+      Create a new py file and add the code from the prj.py file, run it with
+	  ```python3 file_name.py```
 
