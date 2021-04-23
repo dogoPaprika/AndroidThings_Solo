@@ -30,7 +30,7 @@ You can also call the program with ```hum``` argument instead of ```temp```.
 * [10k ohm resistance](https://www.digchip.com/datasheets/parts/datasheet/1838/RSF100JB-10K.php)
 * [Motor Driver (L239)](https://components101.com/ics/l293d-pinout-features-datasheet)
 * battery 9V
-
+<br/>
 * [Raspbian OS](https://www.raspberrypi.org/software/)
 
 ## Setup and Build Plan
