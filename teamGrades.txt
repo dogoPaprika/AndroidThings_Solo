@@ -1,0 +1,2 @@
+Iuliana Pascotescu - 10 (implemented the UI and readme)
+Dragos Petcu - 10 (implemented the UI)
